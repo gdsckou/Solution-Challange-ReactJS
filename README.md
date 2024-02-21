@@ -7,7 +7,7 @@
 |---|---|
 | [1. Overview](#overview) | [2. Technologies](#technologies) |
 | [2. Login](#login)  | [3. Homepage](#homepage) |
-| [4. Login-Register](#user-profiles) 
+| [4. My - Profile ](#my-profile) [5. My- History](#my-history) |
 | [5. Homepage](#appointments) |
 
 
@@ -62,13 +62,18 @@ Welfare is a platform designed as a free sharing environment that facilitates th
 <div>
   <img width="1465" alt="HomePage 1" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/52b15cb2-a898-460d-b36c-7ccb67e5d43b">
 <img width="1459" alt="HomePage 2" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/07d00828-0889-4ffa-9839-95e775c724c0">
-  <img width="1453" alt="HomePage 3" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/bec83cc8-c6d0-428c-bd67-c43f43fd8d64">
+  <img width="1462" alt="Homepage 3" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/bf74c6af-fca5-4b94-a8ac-749212311bd2">
 </div>
 
+## My - Profile
 
+<div>
+<img width="1465" alt="MyProfile" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/af66562a-c4e7-4175-953c-edd0e4bba1d1">
+</div>
 
-
-
-
+## My-History
+<div>
+<img width="1463" alt="My History" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/fc88b07c-102e-4145-bb83-7a1a6cbf32a4">
+</div>
 
 
