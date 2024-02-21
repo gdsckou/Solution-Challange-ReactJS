@@ -1,0 +1,11 @@
+Sayfalar:
+    [+] Ana Sayfa -> Eren
+    [+] Giriş Sayfası -> Alper
+        [+] Şifremi Unuttum -> Alper
+    [+] Filtreli Arama -> Eren
+    [+] Ürün Sayfası -> Alper
+    - Profil
+        [+] Bilgilerim -> Alper
+        [+] Geçmiş -> Eren
+        [ ] İlanlarım -> Alper
+    [+] İlan Düzenleme -> Eren
