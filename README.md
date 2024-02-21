@@ -8,7 +8,7 @@
 | [1. Overview](#overview) | [2. Technologies](#technologies) |
 | [2. Login](#login)  | [3. Homepage](#homepage) |
 | [4. My - Profile ](#my-profile) [5. My- History](#my-history) |
-| [5. Homepage](#appointments) |
+| [6. My - Ads](#my-ads) | [6. My - favourite](#my-favourite) |
 
 
 
@@ -74,6 +74,16 @@ Welfare is a platform designed as a free sharing environment that facilitates th
 ## My-History
 <div>
 <img width="1463" alt="My History" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/fc88b07c-102e-4145-bb83-7a1a6cbf32a4">
+</div>
+
+## My - Ads
+<div>
+  <img width="1456" alt="My Producs" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/8c49275f-b285-402e-a9aa-14241a2f766b">
+</div>
+
+## My - Favourite
+<div>
+  <img width="1464" alt="My favourite" src="https://github.com/gdsckou/Solution-Challange-ReactJS/assets/152609338/372ea437-a9aa-4088-a9aa-f66052414ef5">
 </div>
 
 
